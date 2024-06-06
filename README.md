@@ -1,4 +1,5 @@
-# Hi there 👋 Welcome!
+# Hi there 👋 Welcome to this tiny space!
+> "None of us is as smart as all of us." - Ken Blanchard 💡
 
 <!--
 **appitoriadev/appitoriadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,38 +16,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> "None of us is as smart as all of us." - Ken Blanchard 💡
-
-
 ## Career Summary
 
-Laura is a dedicated and passionate software developer with 8+ years of experience in the tech industry, specializing in .NET technologies. 
-Possesses a strong understanding of agile development methodologies and utilizes them to deliver high-performing, stable software solutions across diverse projects, including those with advanced complexity. 
-Thrives in both individual contributor and leadership roles, consistently demonstrating a collaborative spirit and a commitment to team success. 
-Eager to learn and grow, driven by a desire to continuously enhance technical skills and contribute to innovative projects. 🚀
-
+I'm the kind of developer who always has an eye on what's new. Staying on top of the latest tech isn't just about showing off – it's about making my work better and learning the skills that make me unstoppable. 
+Usually, you'll find me crushing it in the back-end, but I'm not afraid to get my hands dirty with some front-end work too. Knowing the whole process makes me a better developer overall. 
+I'm hungry to make my mark on the industry, so if you're building something awesome and need a teammate who's always pushing forward, let's talk! 🚀
 
 ## Skills
 
-- .Net 💻
-- C# 🔧
-- SQL 🗃️
-- Azure ☁️
-- Typescript 📜
-- HTML 🌐
-- CSS 🎨
-- JS 🖥️
-- Nest Js 🕸️
-- Python 🐍
-- Angular 12+ 🅰️
-- GCP ☁️
-- Web 3 (Solidity) 🔗
-- Fast Learner ⚡
-- Committed 💪
-- Inclusive 🌍
-- Spanish (Native) 🇪🇸
-- English (C1) 🇬🇧
-
+<div align="center">
+<table>
+  <tr>
+    <td>.Net 💻</td>
+    <td>SQL 🗃️</td>
+    <td>Azure ☁️</td>
+  </tr>
+  <tr>
+    <td>Typescript 📜</td>
+    <td>HTML 🌐</td>
+    <td>CSS 🎨</td>
+  </tr>
+  <tr>
+    <td>JS 🖥️</td>
+    <td>Nest Js 🕸️</td>
+    <td>Python 🐍</td>
+  </tr>
+  <tr>
+    <td>Angular 12+ 🅰️</td>
+    <td>GCP ☁️</td>
+    <td>Web 3 (Solidity) 🔗</td>
+  </tr>
+</table>
+</div>
 
 ## Career History
 
@@ -91,7 +92,6 @@ Eager to learn and grow, driven by a desire to continuously enhance technical sk
 - Generated insightful reports using SQL tools (MSSQL, MySQL Workbench, SQL Developer, PostgreSQL, SSRS), enabling data-driven decision-making and improved support processes. 📊
 - Maintained proficiency in Microsoft Office 2013 for effective communication and data manipulation. 📝
 
-
 ## Education
 
 **CESDE, Medellín, Colombia**  
@@ -111,7 +111,6 @@ Eager to learn and grow, driven by a desire to continuously enhance technical sk
 - Web3 Fundamentals. 🌐
 - Creation of NFTs. 🎨
 - History of NFTs. 📖
-
 
 ## Volunteering
 
