@@ -49,8 +49,6 @@ I'm hungry to leave my mark on the industry, so if you're building something awe
 </table>
 </div>
 
-- History of NFTs. 📖
-
 ## Volunteering
 
 - **May 2022 - Oct 2022, Medellín**  
