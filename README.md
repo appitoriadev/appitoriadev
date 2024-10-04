@@ -33,6 +33,7 @@ I'm hungry to leave my mark on the industry, so if you're building something awe
   </tr>
   <tr>
     <td>Typescript 📜</td>
+    <td>Java ☕️</td>
     <td>HTML 🌐</td>
     <td>CSS 🎨</td>
   </tr>
