@@ -1,5 +1,7 @@
 # Hi there 👋 Welcome to this tiny space!
 > "None of us is as smart as all of us." - Ken Blanchard 💡
+>
+> 😄 Pronouns: She/They
 
 <!--
 **appitoriadev/appitoriadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +24,9 @@ I'm the kind of developer who always has an eye on what's new. Staying on top of
 Usually, you'll find me crushing it in the back-end, but I'm not afraid to get my hands dirty with some front-end work too (jk...) 😂 Knowing the whole process makes me a better developer overall. 
 I'm hungry to leave my mark on the industry, so if you're building something awesome and need a teammate who's always pushing forward, let's talk! 🚀
 
+
 ## Skills
+These are order by level of expertise.
 
 <div align="center">
 <table>
@@ -37,14 +41,24 @@ I'm hungry to leave my mark on the industry, so if you're building something awe
   </tr>
   <tr>
     <td>CSS 🎨</td>
+    <td>Angular 14+ 🅰️</td>
     <td>Nest Js 🕸️</td>
     <td>Python 🐍</td>
-    <td>Angular 14+ 🅰️</td>
     <td>GCP ☁️</td>
     <td>Web 3 (Solidity) 🔗</td>
+    <td>Some RUST 🦀</td>
   </tr>
 </table>
 </div>
+
+
+## 🔭 I’m currently working on ...
+Mentoring some students at [NODO - EAFIT](https://es.nodoeafit.com/)
+
+
+## 🌱 I’m currently learning ...
+Some RUST 🦀
+
 
 ## Volunteering
 
@@ -54,3 +68,9 @@ I'm hungry to leave my mark on the industry, so if you're building something awe
   .Net Developer Bootcamp Mentor. (WWC + Pioneras Dev) 🎓
 
 
+## 📫 How to reach me: ...
+You can contactme at [contact@appitoria.dev](mailto:contact@appitoria.dev).
+
+
+## ⚡ Fun fact: ...
+Used to play rugby and LOVED IT!
