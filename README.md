@@ -30,20 +30,16 @@ I'm hungry to leave my mark on the industry, so if you're building something awe
     <td>.Net 💻</td>
     <td>SQL 🗃️</td>
     <td>Azure ☁️</td>
-  </tr>
-  <tr>
     <td>Typescript 📜</td>
-    <td>Java ☕️</td>
+    <td>Java - Spring ☕️</td>
     <td>HTML 🌐</td>
-    <td>CSS 🎨</td>
+    <td>JS 🖥️</td>
   </tr>
   <tr>
-    <td>JS 🖥️</td>
+    <td>CSS 🎨</td>
     <td>Nest Js 🕸️</td>
     <td>Python 🐍</td>
-  </tr>
-  <tr>
-    <td>Angular 12+ 🅰️</td>
+    <td>Angular 14+ 🅰️</td>
     <td>GCP ☁️</td>
     <td>Web 3 (Solidity) 🔗</td>
   </tr>
