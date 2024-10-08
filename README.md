@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Career Summary
 
-I'm the kind of developer who always has an eye on what's new. Staying on top of the latest tech isn't just about showing off – it's about making my work better and learning the skills that make me unstoppable. 
+Staying on top of the latest tech isn't just about showing off – it's about making my work better and learning the skills that make me unstoppable. 
 Usually, you'll find me crushing it in the back-end, but I'm not afraid to get my hands dirty with some front-end work too (jk...) 😂 Knowing the whole process makes me a better developer overall. 
 I'm hungry to leave my mark on the industry, so if you're building something awesome and need a teammate who's always pushing forward, let's talk! 🚀
 
@@ -35,18 +35,18 @@ These are order by level of expertise.
     <td>SQL 🗃️</td>
     <td>Azure ☁️</td>
     <td>Typescript 📜</td>
-    <td>Java - Spring ☕️</td>
-    <td>HTML 🌐</td>
-    <td>JS 🖥️</td>
-  </tr>
-  <tr>
-    <td>CSS 🎨</td>
-    <td>Angular 14+ 🅰️</td>
+    <td>Angular 12+ 🅰️</td>
     <td>Nest Js 🕸️</td>
     <td>Python 🐍</td>
+  </tr>
+  <tr>
+    <td>HTML 🌐</td>
+    <td>JS 🖥️</td>
+    <td>CSS 🎨</td>
     <td>GCP ☁️</td>
     <td>Web 3 (Solidity) 🔗</td>
-    <td>Some RUST 🦀</td>
+    <td>Java - Spring ☕️</td>
+    <td>RUST 🦀</td>
   </tr>
 </table>
 </div>
@@ -57,7 +57,7 @@ Mentoring some students at [NODO - EAFIT](https://es.nodoeafit.com/)
 
 
 ## 🌱 I’m currently learning ...
-Some RUST 🦀
+Java - Spring ☕️ and Some RUST 🦀
 
 
 ## Volunteering
