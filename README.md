@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Career Summary
+## About me
 
 Staying on top of the latest tech isn't just about showing off – it's about making my work better and learning the skills that make me unstoppable. 
-Usually, you'll find me crushing it in the back-end, but I'm not afraid to get my hands dirty with some front-end work too (jk...) 😂 Knowing the whole process makes me a better developer overall. 
-I'm hungry to leave my mark on the industry, so if you're building something awesome and need a teammate who's always pushing forward, let's talk! 🚀
+
+Usually, you'll find me crushing it in the back-end, but I'm not afraid to get my hands dirty with some front-end work too 😂 Knowing the whole process makes me a better developer overall.
+
+I'm eager to leave my mark on the world, so if you're building something awesome and need a teammate who's always pushing forward, let's talk! 🚀
 
 
 ## Skills
