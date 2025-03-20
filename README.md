@@ -37,7 +37,7 @@ These are order by level of expertise.
     <td>SQL 🗃️</td>
     <td>Azure ☁️</td>
     <td>Typescript 📜</td>
-    <td>Angular 12+ 🅰️</td>
+    <td>Angular 17+ 🅰️</td>
     <td>Nest Js 🕸️</td>
     <td>Python 🐍</td>
   </tr>
