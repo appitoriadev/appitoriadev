@@ -36,18 +36,25 @@ These are order by level of expertise.
     <td>.Net 💻</td>
     <td>SQL 🗃️</td>
     <td>Azure ☁️</td>
+  </tr>
+  <tr>
     <td>Typescript 📜</td>
     <td>Angular 17+ 🅰️</td>
     <td>Nest Js 🕸️</td>
-    <td>Python 🐍</td>
   </tr>
   <tr>
     <td>HTML 🌐</td>
     <td>JS 🖥️</td>
     <td>CSS 🎨</td>
+  </tr>
+  <tr>
     <td>GCP ☁️</td>
-    <td>Web 3 (Solidity) 🔗</td>
+    <td>Power Bi 📈</td>
+    <td>Python 🐍</td>
+  </tr>
+  <tr>
     <td>Java - Spring ☕️</td>
+    <td>Web 3 (Solidity) 🔗</td>
     <td>RUST 🦀</td>
   </tr>
 </table>
