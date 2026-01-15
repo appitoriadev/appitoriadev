@@ -88,19 +88,11 @@ I'm eager to leave my mark on the world, so if you're building something awesome
 
 ## Rapidfire  
 
-- 🔭 I’m currently working on creating my first .Net guide.
+- 🔭 I’m currently working on releasing my first .Net guide.
   
-- 🌱 I’m currently learning Java - Spring ☕️ and Some RUST 🦀  
+- 🌱 I’m currently learning Python 🐍 and Some RUST 🦀  
 
-- ⚡ Fun fact: Used to play rugby and LOVED IT!  
-
-
-## Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=appitoriadev&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appitoriadev&hide_border=true&layout=compact" align="right" style="width: 40%" />
-
-
+- ⚡ Fun fact: Used to play rugby 🏉 and LOVED IT!
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=appitoriadev)  
