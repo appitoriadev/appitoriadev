@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://www.twitch.tv/appitoriadev" target="_blank">
 <img src=https://img.shields.io/badge/twitch-%239147ff.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" /> 
 </a>  
-<a href="https://instagram.com/appitoriadev" target="_blank">
+<a href="https://instagram.com/appitoria.dev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23f35369.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> 
 </a>
 <a href="https://github.com/appitoriadev" target="_blank">
